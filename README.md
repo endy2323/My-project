@@ -1,2 +1,9 @@
-# My-project
-my-project/ ├── .gitignore ├── LICENSE ├── README.md ├── src/ │   ├── main.py │   └── utils.py ├── tests/ │   ├── test_main.py │   └── test_utils.py ├── docs/ │   ├── index.md │   └── setup_guide.md ├── requirements.txt └── setup.py
+# My Project
+
+## Overview
+This is an example project to demonstrate a GitHub repository layout.
+
+## Installation
+To install the dependencies, run:
+```sh
+pip install -r requirements.txt
